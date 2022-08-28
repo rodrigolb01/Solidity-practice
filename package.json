@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.1",
+    "ganache": "^7.4.1",
+    "ganache-cli": "^6.12.2"
+  }
+}
